@@ -1,7 +1,6 @@
 # Ciclo2_MisionTIC_Java
-Ejercicios realizados pertenecientes al ciclo 2 de MisionTIC en Java.
-
-En este repositorio almaceno códigos que he trabajado en repl.it <br>
+Ejercicios realizados pertenecientes al ciclo 2 de MisionTIC en Java:
+<br>
 <ol>
  <li>
    <a href="https://github.com/amir1226/Ciclo2_MisionTIC_Java/blob/main/src/semana1/EjD2Volumen/EjD2Volumen.java"> Volumen de un cono más una esfera</a>
