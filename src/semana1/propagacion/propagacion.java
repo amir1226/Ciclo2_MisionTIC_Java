@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package propagacion;
+package semana1.propagacion;
 
 import java.util.Scanner;
 /**

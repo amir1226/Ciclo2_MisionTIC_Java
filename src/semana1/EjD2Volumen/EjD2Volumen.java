@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package EjD2Volumen;
+package semana1.EjD2Volumen;
 
 import java.util.Scanner;
 /**
