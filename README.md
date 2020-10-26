@@ -25,4 +25,7 @@ Ejercicios realizados pertenecientes al ciclo 2 de MisionTIC en Java:
    <a href="https://github.com/amir1226/Ciclo2_MisionTIC_Java/blob/main/src/semana1/puntoEnDominio/puntoEnDominio.java"> Identificar si un punto se encuentra en un dominio </a>
  </li>
  
+ <li>
+  <a href="https://github.com/amir1226/Ciclo2_MisionTIC_Java/tree/main/src/semana2"> Juegos básicos (Triki y estructura Pacman) </a>
+ </li>
 </ol>
