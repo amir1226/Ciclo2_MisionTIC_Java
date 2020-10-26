@@ -1,5 +1,5 @@
 
-package semana2.primerobjetos 2.primerobjetos;
+package semana2.primerobjetos;
 
 /**
  *
