@@ -9,6 +9,12 @@ public class PacMan {
     String color;
     int puntuacion;
     int vidasRestantes;
+    
+    PacMan (){
+        color = "Amarillo";
+        puntuacion = 0;
+        vidasRestantes = 3;
+    }
     PacMan (String color, int puntuacion, int vidasRestantes){
         this.color=color;
         this.puntuacion=puntuacion;
