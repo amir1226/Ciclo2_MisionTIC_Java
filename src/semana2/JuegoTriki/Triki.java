@@ -9,7 +9,7 @@ package semana2.JuegoTriki;
 public class Triki {
     private final char [][] tablero = new char [3][3];
     
-    Triki(){
+    public Triki(){
         for (char[] filas : tablero) {
             for (int j = 0; j<tablero.length; j++) {
                 filas[j] = 'a';
